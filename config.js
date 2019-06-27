@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Z"'"s Thoughts', // Required
+  title: 'Zubair', // Required
   author: 'Zubair Junjunia', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
